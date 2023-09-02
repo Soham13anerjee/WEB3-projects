@@ -1,4 +1,4 @@
-### WEB3-projects
+# WEB3-projects
 
 ## My Web3.0 Learnings and Projects
 This repository is a collection of my learnings and projects in Web3.0. I am a beginner in this space, but I am excited to share my journey with you.
@@ -23,8 +23,8 @@ Thank you!
 Thank you for checking out my repository. I hope you find it helpful.
 
 Author
-# Soham Banerjee
-# Batch of 2024, ECE
-# IIIT Naya Raipur
+#### Soham Banerjee
+#### Batch of 2024, ECE
+#### IIIT Naya Raipur
 [Linkedin Profile](https://www.linkedin.com/in/soham13anerjee/)
-# Twitter/𝕏  @5oham8anerg
+#### Twitter/𝕏  @5oham8anerg
