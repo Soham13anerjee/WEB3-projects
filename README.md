@@ -1,12 +1,12 @@
-# WEB3-projects
+### WEB3-projects
 
 ## My Web3.0 Learnings and Projects
 This repository is a collection of my learnings and projects in Web3.0. I am a beginner in this space, but I am excited to share my journey with you.
 
-# What is Web3.0?
+## What is Web3.0?
 Web3.0 is the next generation of the internet, built on blockchain technology. It is a decentralized and open internet that gives users more control over their data and privacy.
 
-# What's in this repository?
+## What's in this repository?
 This repository contains a variety of resources for learning about Web3.0, including:
 
 Code files for my projects
