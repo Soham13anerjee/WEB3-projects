@@ -17,3 +17,4 @@ console.log(sum)
 
 const salary = 80000
 console.log(salary)
+
