@@ -9,14 +9,14 @@ Web3.0 is the next generation of the internet, built on blockchain technology. I
 ## What's in this repository?
 This repository contains a variety of resources for learning about Web3.0, including:
 
-Code files for my projects
-Articles and blog posts about Web3.0
-Tutorials and guides
-Links to helpful resources
-How to use this repository
-You can use this repository to learn about Web3.0, find inspiration for your own projects, and connect with other developers in the community.
+1. Code files for my projects
+2. Articles and blog posts about Web3.0
+3. Tutorials and guides
+4. Links to helpful resources
+5. How to use this repository
+6. You can use this repository to learn about Web3.0, find inspiration for your own projects, and connect with other developers in the community.
 
-Follow or star this repository
+### Follow or star this repository
 If you find this repository helpful, please follow or star it. This will help me to grow my audience and continue to create more resources for learning about Web3.0.
 
 Thank you!
