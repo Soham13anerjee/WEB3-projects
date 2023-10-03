@@ -1,0 +1,72 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+Starting migrations...
+======================
+> Network name:    'sepolia'
+> Network id:      11155111
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_SimpleStorage.js
+==================
+
+   Replacing 'SimpleStorage'
+   -------------------------
+   > transaction hash:    0x1d535b3a96802d40d18a47007188448481357cc6d77776d48c01eef5b7c3f2f3
+   > Blocks: 1            Seconds: 4
+   > contract address:    0x8469dC75739D54D3CE477489830Ec04741456205
+   > block number:        4414192
+   > block timestamp:     1696313040
+   > account:             0xB59efaaB3281597De241223BecEE4786136a314a
+   > balance:             0.197490543342604104
+   > gas used:            125689 (0x1eaf9)
+   > gas price:           3.304191698 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000415300550329922 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 4414193)
+   > confirmation number: 2 (block: 4414194)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000415300550329922 ETH
+
+
+2_ABC.js
+========
+
+   Replacing 'ABC'
+   ---------------
+   > transaction hash:    0x77ff467c782b170cb57477b89fdb79131c4b0c402a455311f9e3843feb722ca4
+   > Blocks: 1            Seconds: 8
+   > contract address:    0x5ad7534E0a5b567F8f5E5CF401a7a127F1a5a525
+   > block number:        4414195
+   > block timestamp:     1696313076
+   > account:             0xB59efaaB3281597De241223BecEE4786136a314a
+   > balance:             0.197076317874657235
+   > gas used:            125701 (0x1eb05)
+   > gas price:           3.295323569 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000414225467946869 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 4414196)
+   > confirmation number: 2 (block: 4414197)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000414225467946869 ETH
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.000829526018276791 ETH
+
+
